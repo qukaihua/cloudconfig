@@ -1,0 +1,9 @@
+eureka:
+ client:
+  serviceUrl:
+   defaultZone: http://localhost:8791/eureka/
+server:
+ port: 8792
+spring:
+ application:
+   name: dajiba
