@@ -3,7 +3,7 @@ eureka:
   serviceUrl:
    defaultZone: http://localhost:8791/eureka/
 server:
- port: 8900
+ port: 8901
 spring:
  application:
    name: dajiba
